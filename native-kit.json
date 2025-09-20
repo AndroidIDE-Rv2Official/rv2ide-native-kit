@@ -3,7 +3,7 @@
     "architecture": "arm64-v8a",
     "filename": "arm64-v8a-native-kit",
     "version": "28.2.13676358",
-    "url": "output/arm64-v8a-native-kit",
+    "url": "https://github.com/AndroidIDE-Rv2Official/rv2ide-native-kit/releases/v28.2.13676358/arm64-v8a-native-kit",
     "encrypted": true,
     "sha256": "f56887d7ac70c035ec5276cf840a5be21259d7292189d5cc152c550d04e55677"
   },
@@ -11,7 +11,7 @@
     "architecture": "armeabi-v7a",
     "filename": "armeabi-v7a-native-kit",
     "version": "28.2.13676358",
-    "url": "output/armeabi-v7a-native-kit",
+    "url": "https://github.com/AndroidIDE-Rv2Official/rv2ide-native-kit/releases/v28.2.13676358/armeabi-v7a-native-kit",
     "encrypted": true,
     "sha256": "ae774a58e804aa3072fcf6516619fad7304a54164be6b12540e53b0d3aaf10a5"
   },
@@ -19,7 +19,7 @@
     "architecture": "x86_64",
     "filename": "x64-native-kit",
     "version": "28.2.13676358",
-    "url": "output/x64-native-kit",
+    "url": "https://github.com/AndroidIDE-Rv2Official/rv2ide-native-kit/releases/v28.2.13676358/x64-native-kit",
     "encrypted": true,
     "sha256": "10a0323749822c1a36408a7543d337350af40f5f91d2f2163d7cb7af807b4231"
   }
